@@ -1,0 +1,5 @@
+-
+  type: meta
+  attribute:
+    name: robots
+    content: noindex
