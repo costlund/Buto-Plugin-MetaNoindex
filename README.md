@@ -1,5 +1,5 @@
 # Buto-Plugin-MetaNoindex
-Widget to render meta tag to provent search engins to index pages.
+Widget to render meta tag to prevent search engins to index pages.
 ## Usage
 Code and YML example.
 ### Code
