@@ -2,15 +2,17 @@
 Widget to render meta tag to prevent search engins to index pages.
 ## Usage
 Code and YML example.
-### Code
+### Widget, Code
 ```
 wfPlugin::enable('meta/noindex');
 $element = wfDocument::createWidget('meta/noindex', 'noindex');
 ```
-### YML
+### Widget, YML
 ```
-plugin: 'meta/noindex'
-method: noindex
+type: widget
+data:
+  plugin: 'meta/noindex'
+  method: noindex
 ```
 ## HTML output
 ```
