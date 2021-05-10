@@ -8,6 +8,11 @@ history:
     date: '2021-02-03'
     title: 'First version'
     description: 'Manifest created.'
+planning:
+  -
+    date: '2021-05-09'
+    title: 'Meta'
+    description: 'Replace noindex with NOINDEX,NOFOLLOW,NOARCHIVE in meta tag.'
 plugin:
   -
     name: wf/yml
