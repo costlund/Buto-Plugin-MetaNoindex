@@ -1,8 +1,12 @@
-version: 1.0.1
+version: 1.0.2
 history:
+  1.0.2:
+    date: '2022-06-07'
+    title: Versions
+    description: 'Versions update.'
   1.0.1:
     date: '2021-03-25'
-    title: 'Readme'
+    title: Readme
     description: 'Readme improvement.'
   1.0.0:
     date: '2021-02-03'
@@ -11,12 +15,12 @@ history:
 planning:
   -
     date: '2021-05-09'
-    title: 'Meta'
+    title: Meta
     description: 'Replace noindex with NOINDEX,NOFOLLOW,NOARCHIVE in meta tag.'
 plugin:
   -
     name: wf/yml
-    version: 1.3.0
+    version: 1.4.0
 sys:
   -
     name: mercury
